@@ -1,10 +1,10 @@
 {
-    "name": "hexadog/laravel-theme-installer",
+    "name": "snowsoft/laravel-theme-installer",
     "type": "composer-plugin",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/hexadog/laravel-theme-installer/issues",
-        "source": "https://github.com/hexadog/laravel-theme-installer"
+        "issues": "https://github.com/snowsoft/laravel-theme-installer/issues",
+        "source": "https://github.com/snowsoft/laravel-theme-installer"
     },
     "authors": [
         {
